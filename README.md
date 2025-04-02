@@ -1,3 +1,9 @@
+---
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
 ## Report on how foundation labels reinforce racial and societal bias
 
 This report aims to discuss the implications of naming foundation
