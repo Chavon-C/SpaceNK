@@ -1,0 +1,10 @@
+name: SpaceNK-app
+title: SpaceNK-app
+username: chavon
+account: chavon
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14377131
+bundleId: 10027086
+url: https://chavon.shinyapps.io/SpaceNK-app/
+version: 1
